@@ -1,4 +1,4 @@
-### Hey 👋, I'm The Greamer!
+### Hey 👋
 
 [![Github](https://img.shields.io/github/followers/TheGreamer?label=Follow&style=social)](https://github.com/TheGreamer)
 
