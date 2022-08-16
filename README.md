@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/TheGreamer?label=Follow&style=social)](https://github.com/TheGreamer)
 
-I'm a Software Backend Developer and Game Developer that's eager about solving complicated problems and creating software solutions :robot:. I'm currently working on Unity 2D projects and ASP.NET projects. I'm interested in algorithm, web, mobile, desktop and game development concepts and also I'm eager to learn latest technologies.
+I'm a Software Backend Developer and Game Developer that's eager about solving complicated problems and creating software solutions :robot:. I'm currently working on Unity 2D projects and ASP.NET Web API projects. I'm interested in algorithm, web, mobile, desktop and game development concepts and also I'm eager to learn latest technologies.
 
 <hr /><br />
 <div align="center">
