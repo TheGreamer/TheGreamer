@@ -27,7 +27,7 @@ I'm a Software Backend Developer and Game Developer that's eager about solving c
 <a target="_blank" href="https://www.linkedin.com/in/gokay-urenc/" rel="nofollow">
 <img src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" alt="myLinkedin" width="40px" height="40px/" data-canonical-src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" style="max-width: 100%;">
 </a>
-<a target="_blank" href="https://www.discord.com/" rel="nofollow">
+<a target="_blank" href="https://discordapp.com/users/1004969284591702127" rel="nofollow">
 <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="myDiscord" width="40px" height="40px/" data-canonical-src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" style="max-width: 100%;">
 </a>
 <a target="_blank" href="https://steamcommunity.com/id/negantheone/" rel="nofollow">
