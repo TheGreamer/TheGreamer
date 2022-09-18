@@ -34,9 +34,6 @@ I'm a Software Backend Developer and Game Developer that's eager about solving c
 <a target="_blank" href="https://discordapp.com/users/1004969284591702127" rel="nofollow">
 <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="myDiscord" width="40px" height="40px/" data-canonical-src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" style="max-width: 100%;">
 </a>
-<a target="_blank" href="https://steamcommunity.com/id/negantheone/" rel="nofollow">
-<img src="https://cdn-icons-png.flaticon.com/512/2626/2626307.png" alt="mySteam" width="40px" height="40px/" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2626/2626307.png" style="max-width: 100%;">
-</a>
 <a target="_blank" href="https://app.patika.dev/greamer" rel="nofollow">
 <img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png" alt="myPatika" width="40px" height="40px/" data-canonical-src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png" style="max-width: 100%;">
 </a>
